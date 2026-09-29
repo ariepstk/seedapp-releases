@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "notes": "Update v1.4.0: tujuan upload baru Shopee SG (Import URL produk + cadangan cari nama, AI label ON, share WhatsApp/Facebook OFF, caption maks 150)",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.0/seedapp-update-1.4.0.zip"
+  "version": "1.4.1",
+  "notes": "Update v1.4.1: perbaikan Shopee SG - klik Add saat cari nama produk tidak lagi meleset/menutup layar",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.1/seedapp-update-1.4.1.zip"
 }
