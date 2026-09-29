@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
-  "notes": "Update v1.4.1: perbaikan Shopee SG - klik Add saat cari nama produk tidak lagi meleset/menutup layar",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.1/seedapp-update-1.4.1.zip"
+  "version": "1.4.2",
+  "notes": "Update v1.4.2: Shopee SG - deteksi sukses upload disamakan dengan workflow OCR (tab Video, scroll, Back, tunggu Uploading hilang); tanpa klik profil/video acak",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.2/seedapp-update-1.4.2.zip"
 }
