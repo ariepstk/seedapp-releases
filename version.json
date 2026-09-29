@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
-  "notes": "Update v1.4.2: Shopee SG - deteksi sukses upload disamakan dengan workflow OCR (tab Video, scroll, Back, tunggu Uploading hilang); tanpa klik profil/video acak",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.2/seedapp-update-1.4.2.zip"
+  "version": "1.4.3",
+  "notes": "Update v1.4.3: Shopee SG lebih cepat ±20 dtk/video - jeda tetap sesudah Post, caption, dan toggle dipangkas (tunggu berbasis kondisi)",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.3/seedapp-update-1.4.3.zip"
 }
