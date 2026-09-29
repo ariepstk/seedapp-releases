@@ -1,5 +1,5 @@
 {
-  "version": "1.4.5",
-  "notes": "Update v1.4.5: Shopee SG - cari nama tanpa judul yang cocok -> Add hasil pertama (seperti OCR); cek produk sesudah Done tidak membatalkan upload",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.5/seedapp-update-1.4.5.zip"
+  "version": "1.4.6",
+  "notes": "Update v1.4.6: Shopee SG - scroll tab Video sesudah Post kembali 3 x 3 detik (9 dtk)",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.6/seedapp-update-1.4.6.zip"
 }
