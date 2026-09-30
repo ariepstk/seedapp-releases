@@ -1,5 +1,5 @@
 {
-  "version": "1.4.6",
-  "notes": "Update v1.4.6: Shopee SG - scroll tab Video sesudah Post kembali 3 x 3 detik (9 dtk)",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.6/seedapp-update-1.4.6.zip"
+  "version": "1.4.7",
+  "notes": "Update v1.4.7: Shopee ID Reupload - tag produk pola SG (import link 2x lalu cari nama 8->3 kata, pilih yang cocok), jeda tetap diganti tunggu tombol (terukur: 101 -> 64-68 dtk sampai tombol Posting)",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.7/seedapp-update-1.4.7.zip"
 }
