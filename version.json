@@ -1,5 +1,5 @@
 {
-  "version": "1.4.7",
-  "notes": "Update v1.4.7: Shopee ID Reupload - tag produk pola SG (import link 2x lalu cari nama 8->3 kata, pilih yang cocok), jeda tetap diganti tunggu tombol (terukur: 101 -> 64-68 dtk sampai tombol Posting)",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.7/seedapp-update-1.4.7.zip"
+  "version": "1.4.8",
+  "notes": "Update v1.4.8: Shopee ID Reupload - perbaikan 1.4.7: klik Lanjutkan diulang sampai halaman keterangan muncul (dulu bisa nyangkut di editor), cari nama kenali 'Hasil Tidak Ditemukan' (dulu tiap percobaan kosong menunggu 10 dtk)",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.8/seedapp-update-1.4.8.zip"
 }
