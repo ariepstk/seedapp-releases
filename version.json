@@ -1,5 +1,5 @@
 {
-  "version": "1.4.9",
-  "notes": "Update v1.4.9: upload ke Shopee MALAYSIA & PHILIPPINES (Generate AI & Reupload, pola sama Shopee SG: tag link -> cari nama, toggle, caption), tambah Kloter 7",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.9/seedapp-update-1.4.9.zip"
+  "version": "1.4.10",
+  "notes": "Update v1.4.10: Shopee SG/MY/PH cari nama -> Add HASIL PERTAMA (tanpa pencocokan judul; perbaikan baca harga sebagai judul di MY), pesan gagal tag produk sesuai kondisi",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.10/seedapp-update-1.4.10.zip"
 }
