@@ -1,5 +1,5 @@
 {
-  "version": "1.4.8",
-  "notes": "Update v1.4.8: Shopee ID Reupload - perbaikan 1.4.7: klik Lanjutkan diulang sampai halaman keterangan muncul (dulu bisa nyangkut di editor), cari nama kenali 'Hasil Tidak Ditemukan' (dulu tiap percobaan kosong menunggu 10 dtk)",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.8/seedapp-update-1.4.8.zip"
+  "version": "1.4.9",
+  "notes": "Update v1.4.9: upload ke Shopee MALAYSIA & PHILIPPINES (Generate AI & Reupload, pola sama Shopee SG: tag link -> cari nama, toggle, caption), tambah Kloter 7",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.9/seedapp-update-1.4.9.zip"
 }
