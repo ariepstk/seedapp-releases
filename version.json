@@ -1,5 +1,5 @@
 {
-  "version": "1.4.11",
-  "notes": "Update v1.4.11: sesudah upload nonton video terakhir (ID/SG/MY/PH, ganti scroll 3x; perbaikan ID salah klik tab Produk) + Proxy per project (kolom Proxy + Cek IP; IP dicek dari browser HP, negara wajib cocok region; otomatis dilepas)",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.11/seedapp-update-1.4.11.zip"
+  "version": "1.4.12",
+  "notes": "Update v1.4.12: tampilan Tujuan Upload jadi 3 kolom (Shopee PH tidak terpotong). Termasuk isi 1.4.11: nonton video terakhir sesudah upload + Proxy per project",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.12/seedapp-update-1.4.12.zip"
 }
