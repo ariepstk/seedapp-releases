@@ -1,5 +1,5 @@
 {
-  "version": "1.4.10",
-  "notes": "Update v1.4.10: Shopee SG/MY/PH cari nama -> Add HASIL PERTAMA (tanpa pencocokan judul; perbaikan baca harga sebagai judul di MY), pesan gagal tag produk sesuai kondisi",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.10/seedapp-update-1.4.10.zip"
+  "version": "1.4.11",
+  "notes": "Update v1.4.11: sesudah upload nonton video terakhir (ID/SG/MY/PH, ganti scroll 3x; perbaikan ID salah klik tab Produk) + Proxy per project (kolom Proxy + Cek IP; IP dicek dari browser HP, negara wajib cocok region; otomatis dilepas)",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.11/seedapp-update-1.4.11.zip"
 }
