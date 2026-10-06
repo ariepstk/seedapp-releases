@@ -1,5 +1,5 @@
 {
-  "version": "1.4.12",
-  "notes": "Update v1.4.12: tampilan Tujuan Upload jadi 3 kolom (Shopee PH tidak terpotong). Termasuk isi 1.4.11: nonton video terakhir sesudah upload + Proxy per project",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.12/seedapp-update-1.4.12.zip"
+  "version": "1.4.13",
+  "notes": "Update v1.4.13: proxy tidak lagi dicek lewat browser HP (penyebab 'upload ditahan'). Proxy tetap dicek dari PC. Shopee ID/SG/MY/PH. Termasuk isi 1.4.12.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.13/seedapp-update-1.4.13.zip"
 }
