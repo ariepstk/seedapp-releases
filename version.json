@@ -1,5 +1,5 @@
 {
-  "version": "1.4.13",
-  "notes": "Update v1.4.13: proxy tidak lagi dicek lewat browser HP (penyebab 'upload ditahan'). Proxy tetap dicek dari PC. Shopee ID/SG/MY/PH. Termasuk isi 1.4.12.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.13/seedapp-update-1.4.13.zip"
+  "version": "1.4.14",
+  "notes": "Update v1.4.14: upload Shopee SG/MY/PH lebih cepat — ketuk tab 'Me' dibuang, popup 'Check-in for 7days' ditutup otomatis, penutup popup kini juga untuk SG. Termasuk isi 1.4.13.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.14/seedapp-update-1.4.14.zip"
 }
