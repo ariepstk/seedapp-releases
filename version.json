@@ -1,5 +1,5 @@
 {
-  "version": "1.4.14",
-  "notes": "Update v1.4.14: upload Shopee SG/MY/PH lebih cepat — ketuk tab 'Me' dibuang, popup 'Check-in for 7days' ditutup otomatis, penutup popup kini juga untuk SG. Termasuk isi 1.4.13.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.14/seedapp-update-1.4.14.zip"
+  "version": "1.4.15",
+  "notes": "Update v1.4.15: Shopee SG/MY/PH dibuka sekali per set (tidak tutup-buka tiap video) — upload beruntun lebih cepat; aplikasi ditutup saat target set tercapai / project selesai / Stop; restart hanya saat upload gagal. Shopee Indonesia tidak berubah.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.15/seedapp-update-1.4.15.zip"
 }
