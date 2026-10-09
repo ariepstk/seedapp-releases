@@ -1,5 +1,5 @@
 {
-  "version": "1.4.18",
-  "notes": "Update v1.4.18: kembali ke perilaku 1.4.15 (jeda & penanganan popup Live & Video sampai Post Video seperti semula). Satu perubahan: Shopee SG/MY/PH selalu ditutup & dibuka ulang di awal tiap video (tidak lagi Back 6x). Shopee Indonesia tidak berubah.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.18/seedapp-update-1.4.18.zip"
+  "version": "1.4.19",
+  "notes": "Update v1.4.19: kembali PERSIS ke perilaku 1.4.15 — Shopee SG/MY/PH dibuka sekali per set, antar video kembali lewat Back (tanpa buka ulang aplikasi). Shopee Indonesia tidak berubah.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.19/seedapp-update-1.4.19.zip"
 }
