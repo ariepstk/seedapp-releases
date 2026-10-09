@@ -1,5 +1,5 @@
 {
-  "version": "1.4.15",
-  "notes": "Update v1.4.15: Shopee SG/MY/PH dibuka sekali per set (tidak tutup-buka tiap video) — upload beruntun lebih cepat; aplikasi ditutup saat target set tercapai / project selesai / Stop; restart hanya saat upload gagal. Shopee Indonesia tidak berubah.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.15/seedapp-update-1.4.15.zip"
+  "version": "1.4.16",
+  "notes": "Update v1.4.16: Shopee SG/MY/PH — Shopee selalu ditutup & dibuka ulang di awal tiap video (tidak lagi Back 6x yang bisa nyangkut di dialog wajib-pilih). Live & Video -> ikon kanan atas -> Post Video diklik begitu tombol muncul (+1 detik), lebih cepat ±4-5 detik per video. Shopee Indonesia tidak berubah.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.16/seedapp-update-1.4.16.zip"
 }
