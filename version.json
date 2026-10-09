@@ -1,5 +1,5 @@
 {
   "version": "1.4.18",
-  "notes": "Update v1.4.18: perbaikan 1.4.16 — popup Check-in 7 days / Watch & Earn ditutup dulu sebelum klik ikon kanan atas (sebelumnya popup yang muncul telat ikut terklik sehingga Gallery tidak ketemu). Tetap: Shopee dibuka ulang di awal tiap video & tombol diklik begitu muncul +1 detik. Shopee Indonesia tidak berubah.",
+  "notes": "Update v1.4.18: kembali ke perilaku 1.4.15 (jeda & penanganan popup Live & Video sampai Post Video seperti semula). Satu perubahan: Shopee SG/MY/PH selalu ditutup & dibuka ulang di awal tiap video (tidak lagi Back 6x). Shopee Indonesia tidak berubah.",
   "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.18/seedapp-update-1.4.18.zip"
 }
