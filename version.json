@@ -1,5 +1,5 @@
 {
-  "version": "1.4.16",
-  "notes": "Update v1.4.16: Shopee SG/MY/PH — Shopee selalu ditutup & dibuka ulang di awal tiap video (tidak lagi Back 6x yang bisa nyangkut di dialog wajib-pilih). Live & Video -> ikon kanan atas -> Post Video diklik begitu tombol muncul (+1 detik), lebih cepat ±4-5 detik per video. Shopee Indonesia tidak berubah.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.16/seedapp-update-1.4.16.zip"
+  "version": "1.4.17",
+  "notes": "Update v1.4.17: perbaikan 1.4.16 — popup Check-in 7 days / Watch & Earn ditutup dulu sebelum klik ikon kanan atas (sebelumnya popup yang muncul telat ikut terklik sehingga Gallery tidak ketemu). Tetap: Shopee dibuka ulang di awal tiap video & tombol diklik begitu muncul +1 detik. Shopee Indonesia tidak berubah.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.17/seedapp-update-1.4.17.zip"
 }
