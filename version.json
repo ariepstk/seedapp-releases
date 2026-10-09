@@ -1,5 +1,5 @@
 {
-  "version": "1.4.20",
-  "notes": "Update v1.4.20: isi sama persis dengan 1.4.15. Shopee Indonesia tidak berubah.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.20/seedapp-update-1.4.20.zip"
+  "version": "1.4.21",
+  "notes": "Update v1.4.21: perbaikan Shopee MY/PH — tulisan 'Check-in for ... Reward' di tab Live & Video tidak lagi dianggap popup (dulu ditutup pakai Back sehingga terlempar ke Home dan Gallery tidak ketemu). Bila masih di Home, Live & Video diklik ulang (maks 3x). Selebihnya sama dengan 1.4.15.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.21/seedapp-update-1.4.21.zip"
 }
