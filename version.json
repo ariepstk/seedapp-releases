@@ -1,5 +1,5 @@
 {
-  "version": "1.4.21",
-  "notes": "Update v1.4.21: perbaikan Shopee MY/PH — tulisan 'Check-in for ... Reward' di tab Live & Video tidak lagi dianggap popup (dulu ditutup pakai Back sehingga terlempar ke Home dan Gallery tidak ketemu). Bila masih di Home, Live & Video diklik ulang (maks 3x). Selebihnya sama dengan 1.4.15.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.21/seedapp-update-1.4.21.zip"
+  "version": "1.4.22",
+  "notes": "Update v1.4.22: project ber-proxy (Start/Stop) tidak lagi menjalankan adb.exe — perintah proxy ke HP lewat koneksi langsung ke adb server, supaya HP lain di PC (Panda/SeedMonitor) tidak ikut putus. Menu Tools 'semua HP' juga. Selebihnya sama dengan 1.4.21.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.22/seedapp-update-1.4.22.zip"
 }
