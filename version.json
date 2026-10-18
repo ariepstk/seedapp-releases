@@ -1,5 +1,5 @@
 {
-  "version": "1.4.22",
-  "notes": "Update v1.4.22: project ber-proxy (Start/Stop) tidak lagi menjalankan adb.exe — perintah proxy ke HP lewat koneksi langsung ke adb server, supaya HP lain di PC (Panda/SeedMonitor) tidak ikut putus. Menu Tools 'semua HP' juga. Selebihnya sama dengan 1.4.21.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.22/seedapp-update-1.4.22.zip"
+  "version": "1.4.23",
+  "notes": "Update v1.4.23: Tools Cek Saldo ShopeePay kembali jalan (saldo kini dibaca dari Beranda, layout Shopee baru). Halaman Dataset: kotak search membuka modal Cari/Hapus Produk dengan filter negara otomatis (ID/SG/MY/PH) sehingga hapus produk bisa dibatasi per negara; pencarian lebih cepat. Selebihnya sama dengan 1.4.22.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.23/seedapp-update-1.4.23.zip"
 }
