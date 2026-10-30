@@ -1,5 +1,5 @@
 {
-  "version": "1.4.23",
-  "notes": "Update v1.4.23: Tools Cek Saldo ShopeePay kembali jalan (saldo kini dibaca dari Beranda, layout Shopee baru). Halaman Dataset: kotak search membuka modal Cari/Hapus Produk dengan filter negara otomatis (ID/SG/MY/PH) sehingga hapus produk bisa dibatasi per negara; pencarian lebih cepat. Selebihnya sama dengan 1.4.22.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.23/seedapp-update-1.4.23.zip"
+  "version": "1.4.24",
+  "notes": "Update v1.4.24: Hapus Produk Massal (Dataset -> kotak Cari/hapus produk) kini bisa BULK KEYWORD: tempel banyak keyword/link sekaligus (1 per baris), tampil total video + produk + jumlah per keyword, lalu Sembunyikan/Hapus permanen sekali klik. Keyword dicocokkan per kata utuh (bra tidak kena brankas). Selebihnya sama dengan 1.4.23.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.24/seedapp-update-1.4.24.zip"
 }
