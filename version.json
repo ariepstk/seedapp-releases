@@ -1,5 +1,5 @@
 {
-  "version": "1.4.24",
-  "notes": "Update v1.4.24: Hapus Produk Massal (Dataset -> kotak Cari/hapus produk) kini bisa BULK KEYWORD: tempel banyak keyword/link sekaligus (1 per baris), tampil total video + produk + jumlah per keyword, lalu Sembunyikan/Hapus permanen sekali klik. Keyword dicocokkan per kata utuh (bra tidak kena brankas). Selebihnya sama dengan 1.4.23.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.24/seedapp-update-1.4.24.zip"
+  "version": "1.4.25",
+  "notes": "Update v1.4.25: Project -> detail -> Select kini bisa Shift+klik untuk memilih banyak baris sekaligus (klik satu kotak, tahan Shift, klik kotak lain = semua baris di antaranya ikut tercentang/dilepas), sama seperti di Dataset. Selebihnya sama dengan 1.4.24.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.25/seedapp-update-1.4.25.zip"
 }
