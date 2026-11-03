@@ -1,5 +1,5 @@
 {
-  "version": "1.4.25",
-  "notes": "Update v1.4.25: Project -> detail -> Select kini bisa Shift+klik untuk memilih banyak baris sekaligus (klik satu kotak, tahan Shift, klik kotak lain = semua baris di antaranya ikut tercentang/dilepas), sama seperti di Dataset. Selebihnya sama dengan 1.4.24.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.25/seedapp-update-1.4.25.zip"
+  "version": "1.4.26",
+  "notes": "Update v1.4.26: Reupload Shopee ID kini menambah produk Similar ke keranjang. Link produk utama + maks 3 link Similar ditempel SEKALIGUS di Import Link -> Pilih Semua -> Tambah. Data project & status antrian tidak diubah (link Similar dicocokkan otomatis saat upload). Kalau gagal, otomatis cara lama (produk utama saja). Saklar: Settings -> Upload -> 'Tambah produk Similar (Shopee ID)' (bawaan aktif).",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.26/seedapp-update-1.4.26.zip"
 }
