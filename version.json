@@ -1,5 +1,5 @@
 {
-  "version": "1.4.26",
-  "notes": "Update v1.4.26: Reupload Shopee ID kini menambah produk Similar ke keranjang. Link produk utama + maks 3 link Similar ditempel SEKALIGUS di Import Link -> Pilih Semua -> Tambah. Data project & status antrian tidak diubah (link Similar dicocokkan otomatis saat upload). Kalau gagal, otomatis cara lama (produk utama saja). Saklar: Settings -> Upload -> 'Tambah produk Similar (Shopee ID)' (bawaan aktif).",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.26/seedapp-update-1.4.26.zip"
+  "version": "1.4.27",
+  "notes": "Update v1.4.27: daftar produk Similar (Shopee ID) kini diperbarui otomatis dari server saat SeedApp menyala dan tiap 6 jam - tidak perlu update SeedApp lagi tiap ada Similar baru. Fitur lain sama dengan 1.4.26.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.27/seedapp-update-1.4.27.zip"
 }
