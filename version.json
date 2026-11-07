@@ -1,5 +1,5 @@
 {
-  "version": "1.4.27",
-  "notes": "Update v1.4.27: daftar produk Similar (Shopee ID) kini diperbarui otomatis dari server saat SeedApp menyala dan tiap 6 jam - tidak perlu update SeedApp lagi tiap ada Similar baru. Fitur lain sama dengan 1.4.26.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.27/seedapp-update-1.4.27.zip"
+  "version": "1.4.28",
+  "notes": "Update v1.4.28: upload & reupload Shopee ID kini menyalakan label \"Konten dihasilkan AI\" otomatis bila kolomnya ada (perlu aplikasi Shopee versi terbaru). Fitur lain sama dengan 1.4.27.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.28/seedapp-update-1.4.28.zip"
 }
