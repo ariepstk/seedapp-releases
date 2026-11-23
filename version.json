@@ -1,5 +1,5 @@
 {
-  "version": "1.4.30",
-  "notes": "Update v1.4.30: Upload API Shopee (tanpa HP) untuk Shopee ID, MY, SG — di Edit Project pilih Cara Upload API lalu tempel cookie akun. Shopee ID boleh tanpa proxy (internet PC), MY/SG wajib proxy negara itu. PH belum bisa. Jeda antar posting API 3-5 menit. Butuh .NET 8 Desktop Runtime. Fitur lain sama dengan 1.4.28.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.30/seedapp-update-1.4.30.zip"
+  "version": "1.4.31",
+  "notes": "Update v1.4.31: Upload API Shopee (tanpa HP) untuk Shopee ID, MY, SG — di Edit Project pilih Cara Upload API lalu tempel cookie akun. Shopee ID boleh tanpa proxy (internet PC), MY/SG wajib proxy negara itu. PH belum bisa. Jeda antar posting API ikut Durasi Tonton (min-max) di modal Start. Butuh .NET 8 Desktop Runtime. Fitur lain sama dengan 1.4.28.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.31/seedapp-update-1.4.31.zip"
 }
