@@ -1,5 +1,5 @@
 {
-  "version": "1.4.31",
-  "notes": "Update v1.4.31: Upload API Shopee (tanpa HP) untuk Shopee ID, MY, SG — di Edit Project pilih Cara Upload API lalu tempel cookie akun. Shopee ID boleh tanpa proxy (internet PC), MY/SG wajib proxy negara itu. PH belum bisa. Jeda antar posting API ikut Durasi Tonton (min-max) di modal Start. Butuh .NET 8 Desktop Runtime. Fitur lain sama dengan 1.4.28.",
-  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.31/seedapp-update-1.4.31.zip"
+  "version": "1.4.32",
+  "notes": "Update v1.4.32: (1) Titik mulai berjarak — 1 dataset bisa dipakai banyak project (mis. 126 akun) dengan urutan berbeda: tiap project mulai dari video berbeda supaya akun tidak memposting video sama di waktu berdekatan. Settings > Umum: pilih Admin A/B/C (PC ini) + Jumlah admin. Dataset > Atur ulang titik mulai untuk project lama. (2) Hapus massal project/dataset jauh lebih cepat & tidak 'database is locked', dengan bar progres. (3) Impor project massal menampilkan progres. Fitur lain sama dengan 1.4.31.",
+  "zip_url": "https://github.com/ariepstk/seedapp-releases/releases/download/v1.4.32/seedapp-update-1.4.32.zip"
 }
